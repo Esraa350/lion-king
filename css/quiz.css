@@ -1,0 +1,706 @@
+@media (min-width: 320px )  {
+html {
+      background: url('../img lion/the-lion-king.jpg') no-repeat center center fixed;
+      -webkit-background-size: cover;
+      -moz-background-size: cover;
+      -o-background-size:cover
+      background-size: cover;
+      opacity: 1.2;
+      font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+      font-size: 14px;
+      margin: 0;
+      padding: 0;
+    }
+    .vadi{
+     width: 310px;
+    height: 180px;
+    margin-top: 85%;
+    margin-left: 68%;
+        
+    }
+    .containar{
+       margin-left: 48%;
+    height: 270px;
+    width: 679px;
+    position: absolute;
+    top: 29%;
+        
+        transform: translateX(-50%) translateY(-50%);
+        background: rgba(255,255,255,0.5);
+        padding: 20px;
+        border: 1px solid #FFA50A;
+        box-shadow: 0 0 8px 3px #fff;
+        
+    }
+    .title{
+        padding-top: 20px;
+        text-align: center;
+        font-size: 36px;
+        text-transform: uppercase;
+        color: #FF951C;
+    }
+    .question{
+        padding: 20px;
+        font-size: 22px;
+        background: #ED8F3D;
+        border-radius: 20px;
+        margin: 10px 0 10px 0;
+        color: #442727;
+    }
+    .option{
+      width: 264px;
+    display: inline-block;
+    padding: 10px 0 10px 15px;
+    vertical-align: middle;
+    background: rgba(255,255,255,0.5);
+    margin: 10px 0 10px 10px;
+    color: #F74B0C;
+    border-radius: 20px;
+    }
+    .option:hover{
+        background: #F4C427;
+        color: #442A2A;
+    }
+    .next-btn{
+        border: none;
+        outline: none;
+        top:90%;
+        background: rgba(255, 174, 0, 0.8);
+        width: 150px;
+        height: 35px;
+        border-radius: 20px;
+        cursor: pointer;
+    }
+    .next-btn:hover{
+        background: #F4C427;
+        color: #442A2A;
+    }
+    .result{
+        height: 100px;
+        text-align: center;
+        font-size: 75px;
+        margin-top: -37%;
+    }
+    .option input:checked.option{
+        background:rgb(255,255,255,0.5);
+        color: #663333;
+    }
+}@media (min-width: 426px) and (max-width:767.9px) {
+    html {
+      background: url('../img lion/the-lion-king.jpg') no-repeat center center fixed;
+      -webkit-background-size: cover;
+      -moz-background-size: cover;
+      -o-background-size:cover
+      background-size: cover;
+      opacity: 1.2;
+      font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+      font-size: 14px;
+      margin: 0;
+      padding: 0;
+    }
+    .vadi{
+           width: 310px;
+    height: 180px;
+    margin-top: 88%;
+    margin-left: 68%;;
+        
+    }
+    .containar{
+        margin-left: 40%;
+        height: 270px;
+        width: 500px;
+        position: absolute;
+        top: 29%;
+        
+        transform: translateX(-50%) translateY(-50%);
+        background: rgba(255,255,255,0.5);
+        padding: 20px;
+        border: 1px solid #FFA50A;
+        box-shadow: 0 0 8px 3px #fff;
+        
+    }
+    .title{
+        padding-top: 20px;
+        text-align: center;
+        font-size: 36px;
+        text-transform: uppercase;
+        color: #FF951C;
+    }
+    .question{
+        padding: 20px;
+        font-size: 15px;
+        background: #ED8F3D;
+        border-radius: 20px;
+        margin: 10px 0 10px 0;
+        color: #442727;
+    }
+    .option{
+        width: 75px;
+        display: inline-block;
+        padding: 10px 0 10px 15px;
+        vertical-align: middle;
+        background: rgba(255,255,255,0.5);
+        margin: 10px 0 10px 10px;
+        color: #F74B0C;
+        border-radius: 20px;
+    }
+    .option:hover{
+        background: #F4C427;
+        color: #442A2A;
+    }
+    .next-btn{
+        border: none;
+        outline: none;
+        top:90%;
+        background: rgba(255, 174, 0, 0.8);
+        width: 150px;
+        height: 35px;
+        border-radius: 20px;
+        cursor: pointer;
+    }
+    .next-btn:hover{
+        background: #F4C427;
+        color: #442A2A;
+    }
+    .result{
+        height: 100px;
+        text-align: center;
+        font-size: 75px;
+        margin-top: -37%;
+    }
+    .option input:checked.option{
+        background:rgb(255,255,255,0.5);
+        color: #663333;
+    }
+    
+}
+@media (min-width: 768px){
+    html {
+      background: url('../img lion/the-lion-king.jpg') no-repeat center center fixed;
+      -webkit-background-size: cover;
+      -moz-background-size: cover;
+      -o-background-size:cover
+      background-size: cover;
+      opacity: 1.2;
+      font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+      font-size: 14px;
+      margin: 0;
+      padding: 0;
+    }
+    .vadi{
+           width: 310px;
+    height: 180px;
+    margin-top: 75%;
+    margin-left: 60%;
+        
+    }
+    .containar{
+        margin-left: 46%;
+        height: 270px;
+        width: 695px;
+        position: absolute;
+        top: 29%;
+        
+        transform: translateX(-50%) translateY(-50%);
+        background: rgba(255,255,255,0.5);
+        padding: 20px;
+        border: 1px solid #FFA50A;
+        box-shadow: 0 0 8px 3px #fff;
+        
+    }
+    .title{
+        padding-top: 20px;
+        text-align: center;
+        font-size: 36px;
+        text-transform: uppercase;
+        color: #FF951C;
+    }
+    .question{
+        padding: 20px;
+        font-size: 18px;
+        background: #ED8F3D;
+        border-radius: 20px;
+        margin: 10px 0 10px 0;
+        color: #442727;
+    }
+    .option{
+        width: 309px;
+    display: inline-block;
+    padding: 10px 0 10px 15px;
+    vertical-align: middle;
+    background: rgba(255,255,255,0.5);
+    margin: 10px 0 10px 10px;
+    color: #F74B0C;
+    border-radius: 20px;
+    font-size: 15px;
+    }
+    .option:hover{
+        background: #F4C427;
+        color: #442A2A;
+    }
+    .next-btn{
+        border: none;
+        outline: none;
+        top:90%;
+        background: rgba(255, 174, 0, 0.8);
+        width: 150px;
+        height: 35px;
+        border-radius: 20px;
+        cursor: pointer;
+    }
+    .next-btn:hover{
+        background: #F4C427;
+        color: #442A2A;
+    }
+    .result{
+        height: 100px;
+        text-align: center;
+        font-size: 75px;
+        margin-top: -37%;
+    }
+    .option input:checked.option{
+        background:rgb(255,255,255,0.5);
+        color: #663333;
+    }
+    
+}
+@media  (min-width: 768px) and (min-height:513px){
+    html {
+      background: url('../img lion/the-lion-king.jpg') no-repeat center center fixed;
+      -webkit-background-size: cover;
+      -moz-background-size: cover;
+      -o-background-size:cover
+      background-size: cover;
+      opacity: 1.2;
+      font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+      font-size: 14px;
+      margin: 0;
+      padding: 0;
+    }
+    .vadi{
+          width: 310px;
+    height: 180px;
+    margin-top: 75%;
+    margin-left: 60%;
+        
+    }
+    .containar{
+        margin-left: 46%;
+        height: 270px;
+        width: 695px;
+        position: absolute;
+        top: 29%;
+        
+        transform: translateX(-50%) translateY(-50%);
+        background: rgba(255,255,255,0.5);
+        padding: 20px;
+        border: 1px solid #FFA50A;
+        box-shadow: 0 0 8px 3px #fff;
+        
+    }
+    .title{
+        padding-top: 20px;
+        text-align: center;
+        font-size: 36px;
+        text-transform: uppercase;
+        color: #FF951C;
+    }
+    .question{
+        padding: 20px;
+        font-size: 16px;
+        background: #ED8F3D;
+        border-radius: 20px;
+        margin: 10px 0 10px 0;
+        color: #442727;
+    }
+    .option{
+       width: 309px;
+    display: inline-block;
+    padding: 10px 0 10px 15px;
+    vertical-align: middle;
+    background: rgba(255,255,255,0.5);
+    margin: 10px 0 10px 10px;
+    color: #F74B0C;
+    border-radius: 20px;
+    }
+    .option:hover{
+        background: #F4C427;
+        color: #442A2A;
+    }
+    .next-btn{
+        border: none;
+        outline: none;
+        top:90%;
+        background: rgba(255, 174, 0, 0.8);
+        width: 150px;
+        height: 35px;
+        border-radius: 20px;
+        cursor: pointer;
+    }
+    .next-btn:hover{
+        background: #F4C427;
+        color: #442A2A;
+    }
+    .result{
+        height: 100px;
+        text-align: center;
+        font-size: 75px;
+        margin-top: -37%;
+    }
+    .option input:checked.option{
+        background:rgb(255,255,255,0.5);
+        color: #663333;
+    }
+    
+}
+@media (min-width:375px)and  (min-height:812px){
+    html {
+      background: url('../img lion/the-lion-king.jpg') no-repeat center center fixed;
+      -webkit-background-size: cover;
+      -moz-background-size: cover;
+      -o-background-size:cover
+      background-size: cover;
+      opacity: 1.2;
+      font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+      font-size: 14px;
+      margin: 0;
+      padding: 0;
+    }
+    .vadi{
+          width: 310px;
+    height: 180px;
+    margin-top: 90%;
+    margin-left: 60%;
+        
+    }
+    .containar{
+        margin-left: 46%;
+        height: 270px;
+        width: 695px;
+        position: absolute;
+        top: 29%;
+        
+        transform: translateX(-50%) translateY(-50%);
+        background: rgba(255,255,255,0.5);
+        padding: 20px;
+        border: 1px solid #FFA50A;
+        box-shadow: 0 0 8px 3px #fff;
+        
+    }
+    .title{
+        padding-top: 20px;
+        text-align: center;
+        font-size: 36px;
+        text-transform: uppercase;
+        color: #FF951C;
+    }
+    .question{
+        padding: 20px;
+        font-size: 16px;
+        background: #ED8F3D;
+        border-radius: 20px;
+        margin: 10px 0 10px 0;
+        color: #442727;
+    }
+    .option{
+       width: 309px;
+    display: inline-block;
+    padding: 10px 0 10px 15px;
+    vertical-align: middle;
+    background: rgba(255,255,255,0.5);
+    margin: 10px 0 10px 10px;
+    color: #F74B0C;
+    border-radius: 20px;
+    }
+    .option:hover{
+        background: #F4C427;
+        color: #442A2A;
+    }
+    .next-btn{
+        border: none;
+        outline: none;
+        top:90%;
+        background: rgba(255, 174, 0, 0.8);
+        width: 150px;
+        height: 35px;
+        border-radius: 20px;
+        cursor: pointer;
+    }
+    .next-btn:hover{
+        background: #F4C427;
+        color: #442A2A;
+    }
+    .result{
+        height: 100px;
+        text-align: center;
+        font-size: 75px;
+        margin-top: -37%;
+     
+    }
+    .option input:checked.option{
+        background:rgb(255,255,255,0.5);
+        color: #663333;
+    }
+    
+}@media  (min-width: 768px) and (min-height:1024px){
+    html {
+      background: url('../img lion/the-lion-king.jpg') no-repeat center center fixed;
+      -webkit-background-size: cover;
+      -moz-background-size: cover;
+      -o-background-size:cover
+      background-size: cover;
+      opacity: 1.2;
+      font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+      font-size: 14px;
+      margin: 0;
+      padding: 0;
+    }
+    .vadi{
+        width: 310px;
+    height: 202px;
+    margin-top: 49%;
+    margin-left: 55%;
+        
+    }
+    .containar{
+        margin-left: 46%;
+        height: 270px;
+        width: 695px;
+        position: absolute;
+        top: 24%;
+        
+        transform: translateX(-50%) translateY(-50%);
+        background: rgba(255,255,255,0.5);
+        padding: 20px;
+        border: 1px solid #FFA50A;
+        box-shadow: 0 0 8px 3px #fff;
+        
+    }
+    .title{
+        padding-top: 20px;
+        text-align: center;
+        font-size: 36px;
+        text-transform: uppercase;
+        color: #FF951C;
+    }
+    .question{
+        padding: 20px;
+        font-size: 16px;
+        background: #ED8F3D;
+        border-radius: 20px;
+        margin: 10px 0 10px 0;
+        color: #442727;
+    }
+    .option{
+       width: 309px;
+    display: inline-block;
+    padding: 10px 0 10px 15px;
+    vertical-align: middle;
+    background: rgba(255,255,255,0.5);
+    margin: 10px 0 10px 10px;
+    color: #F74B0C;
+    border-radius: 20px;
+    }
+    .option:hover{
+        background: #F4C427;
+        color: #442A2A;
+    }
+    .next-btn{
+        border: none;
+        outline: none;
+        top:90%;
+        background: rgba(255, 174, 0, 0.8);
+        width: 150px;
+        height: 35px;
+        border-radius: 20px;
+        cursor: pointer;
+    }
+    .next-btn:hover{
+        background: #F4C427;
+        color: #442A2A;
+    }
+    .result{
+        height: 100px;
+        text-align: center;
+        font-size: 75px;
+    }
+    .option input:checked.option{
+        background:rgb(255,255,255,0.5);
+        color: #663333;
+    }
+    
+}
+@media (min-width: 890px){
+html {
+      background: url('../img lion/the-lion-king.jpg') no-repeat center center fixed;
+      -webkit-background-size: cover;
+      -moz-background-size: cover;
+      -o-background-size:cover
+      background-size: cover;
+      opacity: 1.2;
+      font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+      font-size: 14px;
+      margin: 0;
+      padding: 0;
+    }
+    .vadi{
+    width: 360px;
+    height: 210px;
+    margin-top: 33%;
+    margin-left: 68%;
+    }
+    .containar{
+          height: 300px;
+    width: 715px;
+    position: absolute;
+    top: 27%;
+    left: 8%;
+    transform: translateX(-50%) translateY(-50%);
+    background: rgba(255,255,255,0.5);
+    padding: 20px;
+    border: 1px solid #FFA50A;
+    box-shadow: 0 0 8px 3px #fff;
+        
+    }
+    .title{
+        padding-top: 20px;
+        text-align: center;
+        font-size: 24px;
+        text-transform: uppercase;
+        color: #FF951C;
+    }
+    .question{
+        padding: 20px;
+       
+        background: #ED8F3D;
+        border-radius: 20px;
+        margin: 10px 0 10px 0;
+        color: #442727;
+    }
+    .option{
+        width: 296px;
+        display: inline-block;
+        padding: 10px 0 10px 15px;
+        vertical-align: middle;
+        background: rgba(255,255,255,0.5);
+        margin: 10px 0 10px 10px;
+        color: #F74B0C;
+        border-radius: 20px;
+    }
+    .option:hover{
+        background: #F4C427;
+        color: #442A2A;
+    }
+    .next-btn{
+        font-size: 14px;
+        border: none;
+        outline: none;
+        top:90%;
+        background: rgba(255, 174, 0, 0.8);
+        width: 150px;
+        height: 35px;
+        border-radius: 20px;
+        cursor: pointer;
+    }
+    .next-btn:hover{
+        background: #F4C427;
+        color: #442A2A;
+    }
+    .result{
+        height: 100px;
+        text-align: center;
+        font-size: 66px;
+        margin-top: -37%;
+    }
+    .option input:checked.option{
+        background:rgb(255,255,255,0.5);
+        color: #663333;
+    }
+}
+@media (min-width: 1024px)and (min-height:1366px)  {
+html {
+      background: url('../img lion/the-lion-king.jpg') no-repeat center center fixed;
+      -webkit-background-size: cover;
+      -moz-background-size: cover;
+      -o-background-size:cover
+      background-size: cover;
+      opacity: 1.2;
+      font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+      font-size: 14px;
+      margin: 0;
+      padding: 0;
+    }
+    .vadi{
+    width: 360px;
+    height: 210px;
+    margin-top: 44%;
+    margin-left: 68%;
+    }
+    .containar{
+          height: 300px;
+    width: 715px;
+    position: absolute;
+    top: 19%;
+    left: 8%;
+    transform: translateX(-50%) translateY(-50%);
+    background: rgba(255,255,255,0.5);
+    padding: 20px;
+    border: 1px solid #FFA50A;
+    box-shadow: 0 0 8px 3px #fff;
+        
+    }
+    .title{
+        padding-top: 20px;
+        text-align: center;
+        font-size: 24px;
+        text-transform: uppercase;
+        color: #FF951C;
+    }
+    .question{
+        padding: 20px;
+       
+        background: #ED8F3D;
+        border-radius: 20px;
+        margin: 10px 0 10px 0;
+        color: #442727;
+    }
+    .option{
+        width: 296px;
+        display: inline-block;
+        padding: 10px 0 10px 15px;
+        vertical-align: middle;
+        background: rgba(255,255,255,0.5);
+        margin: 10px 0 10px 10px;
+        color: #F74B0C;
+        border-radius: 20px;
+    }
+    .option:hover{
+        background: #F4C427;
+        color: #442A2A;
+    }
+    .next-btn{
+        font-size: 14px;
+        border: none;
+        outline: none;
+        top:90%;
+        background: rgba(255, 174, 0, 0.8);
+        width: 150px;
+        height: 35px;
+        border-radius: 20px;
+        cursor: pointer;
+    }
+    .next-btn:hover{
+        background: #F4C427;
+        color: #442A2A;
+    }
+    .result{
+        height: 100px;
+        text-align: center;
+        font-size: 66px;
+        margin-top: -37%;
+    }
+    .option input:checked.option{
+        background:rgb(255,255,255,0.5);
+        color: #663333;
+    }
+}

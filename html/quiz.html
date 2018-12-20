@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>The Lion King</title>
+    <link rel="stylesheet" href="../css/quiz.css">
+</head>
+<body>
+    <div id="quizContainer" class="containar">
+        <div class="title">The Lion King Quiz</div>
+        <div id="question" class="question"></div>
+        <label class="option"><input type="radio" name="option" value="1"><span id="opt1"></span></label>
+        <label class="option"><input type="radio" name="option" value="2"><span id="opt2"></span></label>
+        <label class="option"><input type="radio" name="option" value="3"><span id="opt3"></span></label>
+        <label class="option"><input type="radio" name="option" value="4"><span id="opt4"></span></label>
+        <button id="nextButton" class="next-btn" onclick="loadNextQuestion();">Next Question</button>
+    </div>
+   <video class="vadi" src="../vedio/the-lion-king-bluray-trailer-720p-HDTN.mp4" autoplay></video>
+ <div id="result" class="result" style="display:none;"></div>
+    <script src="../js/custom.js"></script>
+    <script src="../js/quiz.js"></script>
+</body>
+</html>
